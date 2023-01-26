@@ -5,12 +5,14 @@
 <table>
   <tr>
     <td valign="center" width="40%">
-      :office: &nbsp;I'm currently working at **[Devsinc]**</br>
-      :seedling: &nbsp;I’m currently learning **Web3 Stacks**</br>
-      :walking: &nbsp;Like an evening walk</br>
-      :house_with_garden: &nbsp;Open to work **remotely**</br>
-      :computer: &nbsp;Connect with me on **[Email]**
-    </td>
+      
+:office: &nbsp;I'm currently working at **[Devsinc]**</br>
+:seedling: &nbsp;I’m currently learning **Web3 Stacks**</br>
+:walking: &nbsp;Like an evening walk</br>
+:house_with_garden: &nbsp;Open to work **remotely**</br>
+:computer: &nbsp;Connect with me on **[Email]**
+      
+  </td>
     <td>
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Awais914&theme=highcontrast&hide_border=true" alt="Awais914" />
     </td>
@@ -65,7 +67,10 @@ RoR                      3 repos             ██░░░░░░░░░�
 ```
 
 <h3>My latest posts</h3>
-:fire: [Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)[Cassandra Architecture + Implementation](https://medium.com/@awaischaudary526/how-to-use-and-customize-quill-text-editor-in-react-next-js-cd59b8ff0bf9)
+
+:fire: [Cassandra Architecture + Implementation] <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</br>
+:fire: [Customize Quill Text Editor in React/Next JS] <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 
 
 <!--
@@ -88,3 +93,5 @@ Here are some ideas to get you started:
 
 [Devsinc]: https://github.com/8451 "Devsinc"
 [Email]: mailto:m.awais@yahoo.com "Email"
+[Cassandra Architecture + Implementation]: https://medium.com/@awaischaudary526/how-to-use-and-customize-quill-text-editor-in-react-next-js-cd59b8ff0bf9
+[Customize Quill Text Editor in React/Next JS]: https://medium.com/@awaischaudary526/how-to-use-and-customize-quill-text-editor-in-react-next-js-cd59b8ff0bf9
