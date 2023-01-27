@@ -2,6 +2,8 @@
 
 </br> I'm Awais, FullStack Software Engineer seeking innovative solutions to everyday problems. </p>
 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+
 <table>
   <tr>
     <td valign="center" width="40%">
@@ -100,3 +102,5 @@ Here are some ideas to get you started:
 [Email]: mailto:m.awais@yahoo.com "Email"
 [Cassandra Architecture + Implementation]: https://medium.com/@awaischaudary526/how-to-use-and-customize-quill-text-editor-in-react-next-js-cd59b8ff0bf9
 [Customize Quill Text Editor in React/Next JS]: https://medium.com/@awaischaudary526/how-to-use-and-customize-quill-text-editor-in-react-next-js-cd59b8ff0bf9
+
+![Profile views](https://gpvc.arturio.dev/Awais914) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:m.awais@yahoo.com) [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
