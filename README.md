@@ -8,7 +8,7 @@
   <tr>
     <td valign="center" width="40%">
       
-:office: &nbsp;I'm currently working at **[Devsinc]**</br>
+:office: &nbsp;I'm currently working at **Devsinc**</br>
 :seedling: &nbsp;I’m currently learning **Web3 Stacks**</br>
 :walking: &nbsp;Like an evening walk</br>
 :house_with_garden: &nbsp;Open to work **remotely**</br>
