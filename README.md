@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 [Devsinc]: https://github.com/8451 "Devsinc"
 [Email]: mailto:m.awais@yahoo.com "Email"
-[Cassandra Architecture + Implementation]: https://medium.com/@awaischaudary526/how-to-use-and-customize-quill-text-editor-in-react-next-js-cd59b8ff0bf9
+[Cassandra Architecture + Implementation]: https://medium.com/@awaischaudary526/cassandra-architecture-summed-up-implementation-b35a9a4528a4
 [Customize Quill Text Editor in React/Next JS]: https://medium.com/@awaischaudary526/how-to-use-and-customize-quill-text-editor-in-react-next-js-cd59b8ff0bf9
 
 ![Profile views](https://gpvc.arturio.dev/Awais914) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:m.awais@yahoo.com) [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
