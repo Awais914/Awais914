@@ -8,10 +8,10 @@
   <tr>
     <td valign="center" width="40%">
       
-:office: &nbsp;I'm currently working at **Varicent**</br>
+:office: &nbsp;I'm currently working at **Kwanso**</br>
 :seedling: &nbsp;I’m currently learning **Web3 Stacks**</br>
 :walking: &nbsp;Like an evening walk</br>
-:house_with_garden: &nbsp;Open to work **remotely**</br>
+:house_with_garden: &nbsp;Open to Chit **chat**</br>
 :computer: &nbsp;Connect with me on **[Email]**
       
   </td>
